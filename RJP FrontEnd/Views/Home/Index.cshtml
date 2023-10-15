@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="popUp" class="popup">
+    <div class="popup-container">
+        <p class="m-0" style="color: forestgreen"> Customer Account Have Been Added Successfully !</p>
+    </div>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To RJP API</h1>
+</div>
+
+<div class="row mt-5 mb-3">
+    <div class="col-md-5">
+        <div class="text-center">
+            <h3>Create A Customer Account</h3>
+        </div>
+        <div class="mt-5">
+            <div class="mb-3">
+                <label for="CustomerID" class="form-label">Customer ID</label>
+                <input type="number" class="form-control" id="CustomerID">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Initial Credit</label>
+                <input type="number" class="form-control" id="InitialCredit">
+            </div>
+            <div class="mb-3">
+                <span id="errorMessage" class="text-danger"></span>
+            </div>
+            <button onclick="SubmitCustomerAccount()" class="btn btn-primary">Submit</button>
+        </div>
+
+    </div>
+    <div class="col-md-2">
+        <div class="text-center">
+            <h3>Or</h3>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div class="text-center">
+            <h3>Get Customer Information</h3>
+        </div>
+        <div class="mt-5">
+            <div class="mb-3">
+                <label for="CustomerID" class="form-label">Customer ID</label>
+                <input type="number" class="form-control" id="DetailsCustomerID">
+            </div>
+            <div class="mb-3">
+                <span id="errorDetailsMessage" class="text-danger"></span>
+            </div>
+            <button onclick="ViewCustomerDetails()" class="btn btn-primary">View</button>
+        </div>
+
+    </div>
+    <div class="col-md-5">
+    </div>
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-5">
+        <div class="mt-5 account-details" id="AccountDetails">
+            <div class="account-details-container">
+                <div class="row">
+                    <p class="fw-bold col-md-6">
+                        First Name: <span class="fw-normal" id="Fname"> </span>
+                    </p>
+                    <p class="fw-bold col-md-6">
+                        Last Name: <span class="fw-normal" id="Lname"> </span>
+                    </p>
+                    <p class="fw-bold col-md-6">
+                        Total Balance: <span class="fw-normal" id="Balance"> </span>
+                    </p>
+                </div>
+
+                <hr>
+                <h4>
+                    Transactions:
+                </h4>
+                <table class="table mt-3">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Account Id</th>
+                            <th scope="col">Transaction Id</th>
+                            <th scope="col">Credit</th>
+                            <th scope="col">Date Created</th>
+                        </tr>
+                    </thead>
+                    <tbody id="TableBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>

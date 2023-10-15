@@ -1,0 +1,48 @@
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP FrontEnd.staticwebassets.runtime.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP FrontEnd.exe
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP FrontEnd.deps.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP FrontEnd.runtimeconfig.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP FrontEnd.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP FrontEnd.pdb
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.AssemblyInfoInputs.cache
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.AssemblyInfo.cs
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.RazorAssemblyInfo.cache
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.RazorAssemblyInfo.cs
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.RJP FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.build.RJP FrontEnd.props
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RJP FrontEnd.props
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RJP FrontEnd.props
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\scopedcss\bundle\RJP FrontEnd.styles.css
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\RJP FrontEnd.bundle.scp.css
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\refint\RJP FrontEnd.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.pdb
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.genruntimeconfig.cache
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\ref\RJP FrontEnd.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP.deps.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP.runtimeconfig.json
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP.exe
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\RJP.pdb
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.csproj.AssemblyReference.cache
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\obj\Debug\net6.0\RJP FrontEnd.csproj.CopyComplete
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MeatRocket 69\source\repos\RJP FrontEnd\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
